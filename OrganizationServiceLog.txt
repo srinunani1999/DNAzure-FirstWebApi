@@ -1,0 +1,51 @@
+2020-11-24 12:17:53,884 Application started. Press Ctrl+C to shut down.
+2020-11-24 12:17:53,902 Hosting environment: Development
+2020-11-24 12:17:53,906 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\OrganizationService
+2020-11-24 12:18:03,235 Http Get request Initiated
+2020-11-24 12:18:03,236 successfully got details
+2020-11-24 12:18:19,887 Http Get request Initiated
+2020-11-24 12:18:19,888 successfully got details
+2020-11-24 12:18:30,190 Http get request initiated with 1
+2020-11-24 12:18:30,191 Found Matching Organization
+2020-11-24 12:18:39,059 HttpPost Request Initiated for Id 0
+2020-11-24 12:18:39,059 Model state is  valid for Id 0
+2020-11-24 12:18:48,174 Http Get request Initiated
+2020-11-24 12:18:48,576 successfully got details
+2020-11-24 12:19:04,724 HttpPost Request Initiated for Id 0
+2020-11-24 12:19:04,724 Model state is  valid for Id 0
+2020-11-24 12:19:13,427 Http Get request Initiated
+2020-11-24 12:19:13,427 successfully got details
+2020-11-26 19:56:49,798 Application started. Press Ctrl+C to shut down.
+2020-11-26 19:56:49,807 Hosting environment: Development
+2020-11-26 19:56:49,808 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\OrganizationService
+2020-11-26 19:57:12,652 Http Get request Initiated
+2020-11-26 19:57:12,652 successfully got details
+2020-11-26 20:37:05,657 Application started. Press Ctrl+C to shut down.
+2020-11-26 20:37:05,674 Hosting environment: Development
+2020-11-26 20:37:05,676 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\OrganizationService
+2020-11-26 20:37:05,994 Http Get request Initiated
+2020-11-26 20:37:05,994 successfully got details
+2020-11-26 20:59:47,267 Application started. Press Ctrl+C to shut down.
+2020-11-26 20:59:47,293 Hosting environment: Development
+2020-11-26 20:59:47,297 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\OrganizationService
+2020-11-26 20:59:52,506 Http Get request Initiated
+2020-11-26 20:59:52,507 successfully got details
+2020-11-26 21:00:13,068 HttpPost Request Initiated for Id 0
+2020-11-26 21:00:13,069 Model state is  valid for Id 0
+2020-11-26 21:00:39,030 HttpPost Request Initiated for Id 0
+2020-11-26 21:00:39,030 Model state is  valid for Id 0
+2020-11-26 21:00:46,092 Http Get request Initiated
+2020-11-26 21:00:46,092 successfully got details
+2020-11-28 13:01:40,939 Application started. Press Ctrl+C to shut down.
+2020-11-28 13:01:40,980 Hosting environment: Production
+2020-11-28 13:01:40,980 Content root path: C:\inetpub\wwwroot\publish
+2020-11-28 13:01:41,015 Failed to determine the https port for redirect.
+2020-11-28 13:02:02,026 Http Get request Initiated
+2020-11-28 13:02:02,027 successfully got details
+2020-11-28 13:02:08,978 Http get request initiated with 1
+2020-11-28 13:02:08,979 Found Matching Organization
+2020-11-28 13:02:23,792 Http Get request Initiated
+2020-11-28 13:02:23,793 successfully got details
+2020-11-28 13:05:14,342 Http Get request Initiated
+2020-11-28 13:05:14,342 successfully got details
+2020-11-28 13:26:07,255 Application is shutting down...
